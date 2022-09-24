@@ -1,0 +1,74 @@
+
+.logo img{
+    height: 2240;
+}
+
+.about-section{
+    background-color: #f7f9ff;
+   
+}
+
+.nav-item{
+    text-align: right;
+}
+.about-section .image{
+    max-width: 100%;
+}
+
+.about-text{
+    margin-top: 200px;
+}
+
+.number-counter{
+    background-color: deepskyblue;
+    color: white;
+    
+}
+
+ /* ---------table---------- */
+
+
+
+.table .number{
+    height: 50px;
+    width: 50px;
+   background-color: rgb(150, 151, 171);
+    border-radius: 50%;
+    
+}
+
+
+ .table{
+  background-color: #f7f9ff;
+ }            
+
+.table .card-box{
+
+    box-shadow: 0px 1px 12px rgba(0 ,0, 0 , 50% )
+}
+
+
+
+
+
+
+
+
+
+.team-section{
+    padding: 150px;
+}
+
+.team-section .team-item .image img{
+ width: 90px;
+ margin-top: -50px;
+ margin-right: 145px;
+}
+
+.team-item{
+  box-shadow: 0px 1px 10px 10px rgba(152, 149, 149, 0.74);
+}
+
+.content-section{
+    background-color:#f7f9ff;
+}
